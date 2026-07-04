@@ -1,7 +1,3 @@
-# SQL-Data-Cleaning-EDA-Projects
-SQL projects demonstrating data cleaning and exploratory data analysis using MySQL.
-
-
 # SQL Data Cleaning & Exploratory Data Analysis Projects
 
 This repository contains SQL projects demonstrating real-world data cleaning and exploratory data analysis (EDA) techniques using MySQL.
